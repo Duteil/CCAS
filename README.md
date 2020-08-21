@@ -1,1 +1,1 @@
-Evaluation metrics
+Compute the evaluation metrics between the files located in GT and pred. The results are saved in the metrics folder. The metrics are the precision, the recall, the category fragementation, the time fragmentation, the confusion matrix, and the time difference.

@@ -1,0 +1,410 @@
+Label;Start;Duration;End;cc;sn;mo;agg;ld;soc;al;beep;synch;oth;noise
+START;4151.0;0.0;4151.0;False;False;False;False;False;False;False;False;False;False;True
+synch 01:18:00;4187.113;0.974;4188.087;False;False;False;False;False;False;False;False;True;False;False
+cc;4269.025;0.142;4269.1669999999995;True;False;False;False;False;False;False;False;False;False;False
+cc;4276.2;0.135;4276.335;True;False;False;False;False;False;False;False;False;False;False
+unk nf;4294.87;0.129;4294.999;False;False;False;False;False;False;False;False;False;True;False
+cc;4295.816;0.103;4295.919;True;False;False;False;False;False;False;False;False;False;False
+cc;4302.566;0.133;4302.699;True;False;False;False;False;False;False;False;False;False;False
+cc;4317.113;0.156;4317.269;True;False;False;False;False;False;False;False;False;False;False
+cc;4346.278;0.123;4346.401;True;False;False;False;False;False;False;False;False;False;False
+cc;4387.312;0.136;4387.448;True;False;False;False;False;False;False;False;False;False;False
+cc;4394.5;0.178;4394.678;True;False;False;False;False;False;False;False;False;False;False
+soc;4404.821;0.143;4404.964;False;False;False;False;False;True;False;False;False;False;False
+s nf;4407.892;0.033;4407.925;False;True;False;False;False;False;False;False;False;False;False
+cc;4413.383;0.143;4413.526;True;False;False;False;False;False;False;False;False;False;False
+fu soc+agg *;4489.625;0.273;4489.898;False;False;False;False;False;False;False;False;False;True;False
+synch 01:24:00;4547.276;1.159;4548.4349999999995;False;False;False;False;False;False;False;False;True;False;False
+cc;4551.911;0.146;4552.057;True;False;False;False;False;False;False;False;False;False;False
+cc;4592.651;0.16;4592.811;True;False;False;False;False;False;False;False;False;False;False
+cc nf ;4614.547;0.117;4614.664;True;False;False;False;False;False;False;False;False;False;False
+cc nf ?;4676.596;0.175;4676.771;True;False;False;False;False;False;False;False;False;False;False
+bird ?;4713.592;0.219;4713.811;False;False;False;False;False;False;False;False;False;True;False
+cc;5003.662;0.131;5003.793000000001;True;False;False;False;False;False;False;False;False;False;False
+synch 01:34:30;5177.691;1.413;5179.103999999999;False;False;False;False;False;False;False;False;True;False;False
+synch 01:36:00;5267.438;1.301;5268.7390000000005;False;False;False;False;False;False;False;False;True;False;False
+synch 01:37:30;5357.637;1.681;5359.317999999999;False;False;False;False;False;False;False;False;True;False;False
+cc;5483.277;0.146;5483.423;True;False;False;False;False;False;False;False;False;False;False
+cc;5493.0;0.097;5493.097;True;False;False;False;False;False;False;False;False;False;False
+cc;5501.942;0.175;5502.117;True;False;False;False;False;False;False;False;False;False;False
+cc;5512.682;0.121;5512.803;True;False;False;False;False;False;False;False;False;False;False
+cc;5520.463;0.121;5520.584;True;False;False;False;False;False;False;False;False;False;False
+cc;5536.244;0.165;5536.409;True;False;False;False;False;False;False;False;False;False;False
+cc;5542.061;0.121;5542.182;True;False;False;False;False;False;False;False;False;False;False
+bark ?;5553.737;0.087;5553.8240000000005;False;False;False;False;False;False;False;False;False;True;False
+cc;5564.903;0.096;5564.999;True;False;False;False;False;False;False;False;False;False;False
+cc;5579.098;0.16;5579.258;True;False;False;False;False;False;False;False;False;False;False
+cc;5598.44;0.155;5598.594999999999;True;False;False;False;False;False;False;False;False;False;False
+cc;5601.962;0.131;5602.093000000001;True;False;False;False;False;False;False;False;False;False;False
+soc nf;5611.714;0.17;5611.884;False;False;False;False;False;True;False;False;False;False;False
+soc nf;5614.034;0.19;5614.223999999999;False;False;False;False;False;True;False;False;False;False;False
+soc *;5614.383;0.194;5614.577;False;False;False;False;False;True;False;False;False;False;False
+soc;5614.704;0.295;5614.999;False;False;False;False;False;True;False;False;False;False;False
+soc;5615.0;0.09;5615.09;False;False;False;False;False;True;False;False;False;False;False
+soc;5615.125;0.23;5615.355;False;False;False;False;False;True;False;False;False;False;False
+soc;5615.375;0.086;5615.461;False;False;False;False;False;True;False;False;False;False;False
+soc;5615.505;0.25;5615.755;False;False;False;False;False;True;False;False;False;False;False
+soc nf;5616.016;0.22;5616.236;False;False;False;False;False;True;False;False;False;False;False
+cc nf;5617.365;0.096;5617.460999999999;True;False;False;False;False;False;False;False;False;False;False
+cc nf;5617.842;0.157;5617.999;True;False;False;False;False;False;False;False;False;False;False
+s nf;5620.0;0.048;5620.048;False;True;False;False;False;False;False;False;False;False;False
+s nf;5620.251;0.032;5620.283;False;True;False;False;False;False;False;False;False;False;False
+s nf;5621.27;0.037;5621.307000000001;False;True;False;False;False;False;False;False;False;False;False
+fu cc *;5622.583;0.118;5622.701;True;False;False;False;False;False;False;False;False;False;False
+s nf;5622.803;0.04;5622.843;False;True;False;False;False;False;False;False;False;False;False
+s nf;5622.865;0.087;5622.952;False;True;False;False;False;False;False;False;False;False;False
+s;5624.471;0.029;5624.5;False;True;False;False;False;False;False;False;False;False;False
+s nf;5626.138;0.056;5626.1939999999995;False;True;False;False;False;False;False;False;False;False;False
+cc;5629.767;0.124;5629.891;True;False;False;False;False;False;False;False;False;False;False
+cc;5643.947;0.149;5644.0960000000005;True;False;False;False;False;False;False;False;False;False;False
+cc nf;5648.661;0.12;5648.781;True;False;False;False;False;False;False;False;False;False;False
+cc nf;5652.469;0.137;5652.606;True;False;False;False;False;False;False;False;False;False;False
+cc nf;5658.429;0.104;5658.533;True;False;False;False;False;False;False;False;False;False;False
+cc nf;5675.5;0.148;5675.648;True;False;False;False;False;False;False;False;False;False;False
+cc nf;5678.036;0.135;5678.171;True;False;False;False;False;False;False;False;False;False;False
+cc;5678.668;0.12;5678.788;True;False;False;False;False;False;False;False;False;False;False
+cc nf;5692.546;0.102;5692.648;True;False;False;False;False;False;False;False;False;False;False
+cc;5692.949;0.131;5693.08;True;False;False;False;False;False;False;False;False;False;False
+cc nf;5697.46;0.146;5697.606;True;False;False;False;False;False;False;False;False;False;False
+cc nf;5697.793;0.139;5697.932;True;False;False;False;False;False;False;False;False;False;False
+s nf;5705.192;0.047;5705.239;False;True;False;False;False;False;False;False;False;False;False
+unk nf;5705.276;0.055;5705.331;False;False;False;False;False;False;False;False;False;True;False
+synch 01:45:00;5807.659;1.277;5808.936;False;False;False;False;False;False;False;False;True;False;False
+fu mov+ld;5844.438;0.208;5844.646;False;False;False;False;False;False;False;False;False;True;False
+s;5845.899;0.036;5845.935;False;True;False;False;False;False;False;False;False;False;False
+s x;5846.0;0.018;5846.018;False;True;False;False;False;False;False;False;False;False;False
+s ?;5847.115;0.062;5847.177;False;True;False;False;False;False;False;False;False;False;False
+fu mov+s ?;5847.235;0.098;5847.333;False;False;False;False;False;False;False;False;False;True;False
+mov;5849.862;0.223;5850.085;False;False;True;False;False;False;False;False;False;False;False
+fu mov+ld x;5853.316;0.219;5853.535;False;False;False;False;False;False;False;False;False;True;False
+s;5854.605;0.043;5854.647999999999;False;True;False;False;False;False;False;False;False;False;False
+s x;5854.725;0.036;5854.761;False;True;False;False;False;False;False;False;False;False;False
+mov;5864.397;0.267;5864.664;False;False;True;False;False;False;False;False;False;False;False
+mov;5875.761;0.212;5875.973000000001;False;False;True;False;False;False;False;False;False;False;False
+synch 01:46:30;5897.796;2.057;5899.853;False;False;False;False;False;False;False;False;True;False;False
+beep 01:48:00;5987.64;0.04;5987.64;False;False;False;False;False;False;False;True;False;False;False
+synch 01:48:00;5987.743;1.226;5988.969;False;False;False;False;False;False;False;False;True;False;False
+cc;6034.336;0.163;6034.499;True;False;False;False;False;False;False;False;False;False;False
+cc;6042.31;0.157;6042.467000000001;True;False;False;False;False;False;False;False;False;False;False
+unk;6118.061;0.033;6118.094;False;False;False;False;False;False;False;False;False;True;False
+fu soc+agg;6118.12;0.098;6118.218;False;False;False;False;False;False;False;False;False;True;False
+soc x;6119.372;0.127;6119.499000000001;False;False;False;False;False;True;False;False;False;False;False
+agg;6120.0;0.123;6120.123;False;False;False;True;False;False;False;False;False;False;False
+sq agg+agg+agg;6120.193;0.388;6120.581;False;False;False;True;False;False;False;False;False;False;False
+s nf;6120.643;0.04;6120.683;False;True;False;False;False;False;False;False;False;False;False
+agg;6120.739;0.146;6120.884999999999;False;False;False;True;False;False;False;False;False;False;False
+fu soc+agg nf;6121.488;0.025;6121.513;False;False;False;False;False;False;False;False;False;True;False
+agg;6121.529;0.102;6121.631;False;False;False;True;False;False;False;False;False;False;False
+fu soc+agg nf;6121.664;0.097;6121.7609999999995;False;False;False;False;False;False;False;False;False;True;False
+agg;6121.972;0.102;6122.074;False;False;False;True;False;False;False;False;False;False;False
+fu soc+agg;6122.075;0.153;6122.228;False;False;False;False;False;False;False;False;False;True;False
+agg;6122.646;0.153;6122.799;False;False;False;True;False;False;False;False;False;False;False
+agg;6122.815;0.112;6122.927;False;False;False;True;False;False;False;False;False;False;False
+agg;6123.0;0.181;6123.181;False;False;False;True;False;False;False;False;False;False;False
+agg;6123.191;0.123;6123.313999999999;False;False;False;True;False;False;False;False;False;False;False
+agg;6123.324;0.107;6123.431;False;False;False;True;False;False;False;False;False;False;False
+agg;6123.442;0.123;6123.565;False;False;False;True;False;False;False;False;False;False;False
+agg;6124.767;0.104;6124.871;False;False;False;True;False;False;False;False;False;False;False
+s nf;6125.163;0.043;6125.205999999999;False;True;False;False;False;False;False;False;False;False;False
+cc nf;6127.2;0.212;6127.412;True;False;False;False;False;False;False;False;False;False;False
+cc;6135.026;0.133;6135.159;True;False;False;False;False;False;False;False;False;False;False
+s;6136.753;0.039;6136.7919999999995;False;True;False;False;False;False;False;False;False;False;False
+ld;6139.047;0.226;6139.272999999999;False;False;False;False;True;False;False;False;False;False;False
+cc;6142.926;0.216;6143.142000000001;True;False;False;False;False;False;False;False;False;False;False
+ld;6144.527;0.209;6144.736;False;False;False;False;True;False;False;False;False;False;False
+mov;6152.033;0.209;6152.242;False;False;True;False;False;False;False;False;False;False;False
+fu mov+ld;6158.19;0.216;6158.406;False;False;False;False;False;False;False;False;False;True;False
+cc;6161.712;0.123;6161.835;True;False;False;False;False;False;False;False;False;False;False
+cc;6167.376;0.159;6167.535;True;False;False;False;False;False;False;False;False;False;False
+synch 01:51:00;6167.869;0.659;6168.527999999999;False;False;False;False;False;False;False;False;True;False;False
+cc;6174.858;0.199;6175.057;True;False;False;False;False;False;False;False;False;False;False
+cc;6184.535;0.164;6184.699;True;False;False;False;False;False;False;False;False;False;False
+cc;6190.255;0.164;6190.419;True;False;False;False;False;False;False;False;False;False;False
+cc;6194.968;0.15;6195.1179999999995;True;False;False;False;False;False;False;False;False;False;False
+cc;6199.5;0.178;6199.678;True;False;False;False;False;False;False;False;False;False;False
+cc;6207.709;0.124;6207.833;True;False;False;False;False;False;False;False;False;False;False
+cc;6211.621;0.146;6211.767;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6212.265;0.153;6212.418000000001;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6213.689;0.153;6213.842000000001;True;False;False;False;False;False;False;False;False;False;False
+cc x nf;6215.766;0.142;6215.907999999999;True;False;False;False;False;False;False;False;False;False;False
+cc;6216.682;0.12;6216.802;True;False;False;False;False;False;False;False;False;False;False
+soc nf;6217.07;0.15;6217.219999999999;False;False;False;False;False;True;False;False;False;False;False
+soc *;6217.439;0.307;6217.746;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6218.538;0.245;6218.782999999999;False;False;False;False;False;True;False;False;False;False;False
+fu cc+soc nf ?;6220.058;0.161;6220.219;False;False;False;False;False;False;False;False;False;True;False
+soc nf;6221.263;0.289;6221.552;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6222.263;0.278;6222.541;False;False;False;False;False;True;False;False;False;False;False
+fu soc+cc %;6222.541;0.168;6222.709;False;False;False;False;False;False;False;False;False;True;False
+soc nf;6222.887;0.256;6223.143;False;False;False;False;False;True;False;False;False;False;False
+soc;6224.767;0.388;6225.155;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6225.419;0.234;6225.653;False;False;False;False;False;True;False;False;False;False;False
+fu cc+soc nf ?;6227.751;0.153;6227.904;False;False;False;False;False;False;False;False;False;True;False
+soc nf;6229.043;0.186;6229.228999999999;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6229.596;0.179;6229.775;False;False;False;False;False;True;False;False;False;False;False
+cc nf;6231.122;0.157;6231.279;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6231.877;0.161;6232.0380000000005;True;False;False;False;False;False;False;False;False;False;False
+cc;6239.605;0.142;6239.746999999999;True;False;False;False;False;False;False;False;False;False;False
+cc x;6246.861;0.138;6246.999;True;False;False;False;False;False;False;False;False;False;False
+cc;6261.52;0.158;6261.678000000001;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6273.342;0.133;6273.474999999999;True;False;False;False;False;False;False;False;False;False;False
+soc nf;6282.784;0.215;6282.999;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6283.765;0.234;6283.999000000001;False;False;False;False;False;True;False;False;False;False;False
+soc x nf;6284.083;0.344;6284.427;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6285.449;0.333;6285.781999999999;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6286.372;0.216;6286.588000000001;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6287.664;0.197;6287.861;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6288.29;0.183;6288.473;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6289.242;0.34;6289.582;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6292.832;0.197;6293.029;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6293.842;0.157;6293.999;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6294.732;0.417;6295.149;False;False;False;False;False;True;False;False;False;False;False
+cc nf;6301.448;0.106;6301.554;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6302.777;0.15;6302.927;True;False;False;False;False;False;False;False;False;False;False
+cc x nf;6304.035;0.142;6304.177;True;False;False;False;False;False;False;False;False;False;False
+cc;6333.921;0.131;6334.052000000001;True;False;False;False;False;False;False;False;False;False;False
+synch 01:54:00;6347.963;1.069;6349.032;False;False;False;False;False;False;False;False;True;False;False
+cc;6357.729;0.106;6357.835;True;False;False;False;False;False;False;False;False;False;False
+cc;6391.967;0.131;6392.098;True;False;False;False;False;False;False;False;False;False;False
+cc;6397.706;0.142;6397.848;True;False;False;False;False;False;False;False;False;False;False
+cc;6415.514;0.097;6415.611;True;False;False;False;False;False;False;False;False;False;False
+cc;6423.523;0.078;6423.601000000001;True;False;False;False;False;False;False;False;False;False;False
+synch 01:55:30;6438.116;2.272;6440.388;False;False;False;False;False;False;False;False;True;False;False
+cc x nf;6517.689;0.133;6517.822;True;False;False;False;False;False;False;False;False;False;False
+synch 01:57:00;6527.966;1.246;6529.212;False;False;False;False;False;False;False;False;True;False;False
+cc nf;6531.116;0.127;6531.243;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6544.0;0.091;6544.091;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6545.462;0.115;6545.577;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6564.551;0.087;6564.638000000001;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6565.438;0.151;6565.589;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6569.362;0.112;6569.474;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6570.312;0.106;6570.418;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6573.553;0.148;6573.701;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6575.827;0.078;6575.905000000001;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6577.921;0.124;6578.045;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6583.183;0.105;6583.288;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6595.921;0.111;6596.032;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6599.714;0.13;6599.844;True;False;False;False;False;False;False;False;False;False;False
+cc;6612.46;0.16;6612.62;True;False;False;False;False;False;False;False;False;False;False
+synch 01:58:30;6618.094;1.664;6619.758;False;False;False;False;False;False;False;False;True;False;False
+s nf;6630.058;0.03;6630.088;False;True;False;False;False;False;False;False;False;False;False
+s;6631.545;0.039;6631.584;False;True;False;False;False;False;False;False;False;False;False
+s;6633.879;0.046;6633.925;False;True;False;False;False;False;False;False;False;False;False
+fu mov+s;6633.959;0.186;6634.1449999999995;False;False;True;False;False;False;False;False;False;False;False
+s;6636.714;0.043;6636.757;False;True;False;False;False;False;False;False;False;False;False
+fu soc+agg;6646.829;0.136;6646.965;False;False;False;False;False;False;False;False;False;True;False
+cc nf;6652.351;0.148;6652.499;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6677.445;0.123;6677.567999999999;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6684.269;0.116;6684.385;True;False;False;False;False;False;False;False;False;False;False
+cc;6688.233;0.119;6688.352;True;False;False;False;False;False;False;False;False;False;False
+cc;6702.712;0.156;6702.868;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6705.392;0.133;6705.525;True;False;False;False;False;False;False;False;False;False;False
+synch 02:00:00;6708.025;0.474;6708.499;False;False;False;False;False;False;False;False;True;False;False
+cc nf;6736.438;0.153;6736.591;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6740.409;0.126;6740.535;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6755.041;0.119;6755.16;True;False;False;False;False;False;False;False;False;False;False
+cc;6761.715;0.133;6761.848;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6767.548;0.106;6767.6539999999995;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6772.228;0.129;6772.357;True;False;False;False;False;False;False;False;False;False;False
+fu ld+cc;6781.554;0.153;6781.707;False;False;False;False;False;False;False;False;False;True;False
+s;6787.36;0.051;6787.411;False;True;False;False;False;False;False;False;False;False;False
+cc nf;6787.667;0.102;6787.769;True;False;False;False;False;False;False;False;False;False;False
+mov nf;6790.064;0.201;6790.265;False;False;True;False;False;False;False;False;False;False;False
+mov;6792.55;0.19;6792.74;False;False;True;False;False;False;False;False;False;False;False
+s;6794.489;0.033;6794.522;False;True;False;False;False;False;False;False;False;False;False
+fu mov+s;6794.6;0.181;6794.781;False;False;True;False;False;False;False;False;False;False;False
+synch 02:01:30;6798.178;1.763;6799.941;False;False;False;False;False;False;False;False;True;False;False
+mov nf ?;6799.855;0.144;6799.999;False;False;True;False;False;False;False;False;False;False;False
+mov nf ?;6801.455;0.12;6801.575;False;False;True;False;False;False;False;False;False;False;False
+al;6809.764;0.098;6809.862;False;False;False;False;False;False;True;False;False;False;False
+al;6809.973;0.098;6810.071;False;False;False;False;False;False;True;False;False;False;False
+al x;6810.339;0.091;6810.43;False;False;False;False;False;False;True;False;False;False;False
+s;6811.562;0.036;6811.598;False;True;False;False;False;False;False;False;False;False;False
+s;6817.207;0.04;6817.247;False;True;False;False;False;False;False;False;False;False;False
+s;6818.727;0.051;6818.778;False;True;False;False;False;False;False;False;False;False;False
+s;6819.137;0.04;6819.177;False;True;False;False;False;False;False;False;False;False;False
+s nf;6819.726;0.019;6819.745;False;True;False;False;False;False;False;False;False;False;False
+s nf;6820.647;0.033;6820.68;False;True;False;False;False;False;False;False;False;False;False
+s nf;6821.274;0.036;6821.31;False;True;False;False;False;False;False;False;False;False;False
+soc nf;6822.04;0.229;6822.269;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6822.459;0.322;6822.781;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6823.03;0.197;6823.227;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6823.623;0.205;6823.8279999999995;False;False;False;False;False;True;False;False;False;False;False
+al *;6824.118;0.084;6824.202;False;False;False;False;False;False;True;False;False;False;False
+soc nf;6824.581;0.217;6824.798;False;False;False;False;False;True;False;False;False;False;False
+s nf;6824.94;0.028;6824.968;False;True;False;False;False;False;False;False;False;False;False
+soc nf;6825.201;0.237;6825.438;False;False;False;False;False;True;False;False;False;False;False
+al *;6825.963;0.088;6826.0509999999995;False;False;False;False;False;False;True;False;False;False;False
+s *;6826.414;0.036;6826.45;False;True;False;False;False;False;False;False;False;False;False
+s nf;6826.816;0.032;6826.848;False;True;False;False;False;False;False;False;False;False;False
+unk nf;6827.243;0.04;6827.283;False;False;False;False;False;False;False;False;False;True;False
+s nf;6829.418;0.044;6829.4619999999995;False;True;False;False;False;False;False;False;False;False;False
+s nf;6830.082;0.04;6830.122;False;True;False;False;False;False;False;False;False;False;False
+soc;6831.731;0.047;6831.777999999999;False;False;False;False;False;True;False;False;False;False;False
+soc;6832.14;0.041;6832.1810000000005;False;False;False;False;False;True;False;False;False;False;False
+x;6834.541;0.347;6834.888;False;False;False;False;False;False;False;False;False;True;False
+s;6835.109;0.036;6835.145;False;True;False;False;False;False;False;False;False;False;False
+fu soc+agg nf;6839.337;0.234;6839.571000000001;False;False;False;False;False;False;False;False;False;True;False
+skipon (soc-agg interaction);6839.337;0.0;6839.337;False;False;False;False;False;False;False;False;False;True;True
+agg;6840.565;0.336;6840.901;False;False;False;True;False;False;False;False;False;False;False
+agg %;6841.161;0.422;6841.583;False;False;False;True;False;False;False;False;False;False;False
+agg;6841.91;0.143;6842.053;False;False;False;True;False;False;False;False;False;False;False
+agg;6842.256;0.213;6842.469;False;False;False;True;False;False;False;False;False;False;False
+agg;6842.692;0.153;6842.845;False;False;False;True;False;False;False;False;False;False;False
+agg;6843.208;0.049;6843.257;False;False;False;True;False;False;False;False;False;False;False
+agg;6844.057;0.063;6844.12;False;False;False;True;False;False;False;False;False;False;False
+fu soc+agg nf;6844.154;0.129;6844.283;False;False;False;False;False;False;False;False;False;True;False
+agg nf;6844.284;0.113;6844.397;False;False;False;True;False;False;False;False;False;False;False
+agg;6844.58;0.123;6844.7029999999995;False;False;False;True;False;False;False;False;False;False;False
+agg;6846.629;0.302;6846.931;False;False;False;True;False;False;False;False;False;False;False
+agg;6846.965;0.136;6847.101000000001;False;False;False;True;False;False;False;False;False;False;False
+agg;6847.168;0.073;6847.241;False;False;False;True;False;False;False;False;False;False;False
+agg;6847.368;0.089;6847.457;False;False;False;True;False;False;False;False;False;False;False
+soc nf;6847.87;0.206;6848.076;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6849.026;0.702;6849.728;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6850.668;0.399;6851.067;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6851.344;0.322;6851.666;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6852.333;0.579;6852.911999999999;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6853.371;0.525;6853.896;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6854.16;0.249;6854.409;False;False;False;False;False;True;False;False;False;False;False
+soc nf;6854.869;0.269;6855.138;False;False;False;False;False;True;False;False;False;False;False
+beep 02:03:00;6887.966;0.04;6887.966;False;False;False;False;False;False;False;True;False;False;False
+skipoff;6888.0;0.0;6888.0;False;False;False;False;False;False;False;False;False;False;True
+synch 02:03:00;6888.118;0.945;6889.063;False;False;False;False;False;False;False;False;True;False;False
+cc;6895.572;0.139;6895.711;True;False;False;False;False;False;False;False;False;False;False
+soc nf ?;6900.698;0.189;6900.887000000001;False;False;False;False;False;True;False;False;False;False;False
+cc;6903.826;0.146;6903.972;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6904.534;0.139;6904.673;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6905.952;0.168;6906.12;True;False;False;False;False;False;False;False;False;False;False
+cc;6908.529;0.153;6908.682000000001;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6908.785;0.146;6908.931;True;False;False;False;False;False;False;False;False;False;False
+cc nf;6911.426;0.074;6911.5;True;False;False;False;False;False;False;False;False;False;False
+cc;6917.634;0.205;6917.839;True;False;False;False;False;False;False;False;False;False;False
+cc;6924.452;0.157;6924.609;True;False;False;False;False;False;False;False;False;False;False
+cc;6927.344;0.144;6927.488;True;False;False;False;False;False;False;False;False;False;False
+cc;6930.753;0.179;6930.932;True;False;False;False;False;False;False;False;False;False;False
+cc;6935.736;0.183;6935.919;True;False;False;False;False;False;False;False;False;False;False
+cc;6941.583;0.157;6941.74;True;False;False;False;False;False;False;False;False;False;False
+fu cc+soc;6951.194;0.175;6951.369000000001;False;False;False;False;False;False;False;False;False;True;False
+cc;6959.132;0.194;6959.326;True;False;False;False;False;False;False;False;False;False;False
+cc;6968.162;0.153;6968.3150000000005;True;False;False;False;False;False;False;False;False;False;False
+cc;6973.332;0.095;6973.427000000001;True;False;False;False;False;False;False;False;False;False;False
+cc;6977.314;0.157;6977.4710000000005;True;False;False;False;False;False;False;False;False;False;False
+cc;6983.271;0.175;6983.446;True;False;False;False;False;False;False;False;False;False;False
+cc;6986.155;0.168;6986.322999999999;True;False;False;False;False;False;False;False;False;False;False
+cc;6989.874;0.142;6990.016;True;False;False;False;False;False;False;False;False;False;False
+fu cc+soc;7003.059;0.168;7003.227;False;False;False;False;False;False;False;False;False;True;False
+cc;7009.973;0.124;7010.097;True;False;False;False;False;False;False;False;False;False;False
+cc;7013.818;0.131;7013.9490000000005;True;False;False;False;False;False;False;False;False;False;False
+cc;7016.861;0.125;7016.986;True;False;False;False;False;False;False;False;False;False;False
+fu cc+soc;7020.765;0.169;7020.934;False;False;False;False;False;False;False;False;False;True;False
+cc;7025.194;0.139;7025.3330000000005;True;False;False;False;False;False;False;False;False;False;False
+cc;7029.575;0.126;7029.701;True;False;False;False;False;False;False;False;False;False;False
+cc;7045.403;0.131;7045.534000000001;True;False;False;False;False;False;False;False;False;False;False
+cc x;7049.217;0.098;7049.315;True;False;False;False;False;False;False;False;False;False;False
+cc;7080.375;0.124;7080.499;True;False;False;False;False;False;False;False;False;False;False
+cc;7084.177;0.139;7084.316;True;False;False;False;False;False;False;False;False;False;False
+cc;7088.372;0.134;7088.506;True;False;False;False;False;False;False;False;False;False;False
+cc nf;7104.127;0.128;7104.255;True;False;False;False;False;False;False;False;False;False;False
+cc;7186.075;0.128;7186.2029999999995;True;False;False;False;False;False;False;False;False;False;False
+cc;7201.259;0.142;7201.401;True;False;False;False;False;False;False;False;False;False;False
+cc;7206.776;0.124;7206.9;True;False;False;False;False;False;False;False;False;False;False
+cc;7213.631;0.141;7213.772;True;False;False;False;False;False;False;False;False;False;False
+cc;7221.226;0.146;7221.371999999999;True;False;False;False;False;False;False;False;False;False;False
+cc;7251.893;0.155;7252.048;True;False;False;False;False;False;False;False;False;False;False
+cc;7299.813;0.11;7299.923;True;False;False;False;False;False;False;False;False;False;False
+cc nf;7371.675;0.11;7371.785;True;False;False;False;False;False;False;False;False;False;False
+synch 02:12:00;7428.327;0.748;7429.075;False;False;False;False;False;False;False;False;True;False;False
+al;7534.448;0.283;7534.731000000001;False;False;False;False;False;False;True;False;False;False;False
+al;7535.71;0.172;7535.882;False;False;False;False;False;False;True;False;False;False;False
+al;7537.899;0.141;7538.04;False;False;False;False;False;False;True;False;False;False;False
+al;7540.078;0.133;7540.211;False;False;False;False;False;False;True;False;False;False;False
+al;7540.318;0.11;7540.428;False;False;False;False;False;False;True;False;False;False;False
+al;7540.863;0.088;7540.951;False;False;False;False;False;False;True;False;False;False;False
+al;7541.208;0.088;7541.295999999999;False;False;False;False;False;False;True;False;False;False;False
+al;7541.797;0.093;7541.889999999999;False;False;False;False;False;False;True;False;False;False;False
+al x;7542.258;0.11;7542.3679999999995;False;False;False;False;False;False;True;False;False;False;False
+al;7543.127;0.093;7543.22;False;False;False;False;False;False;True;False;False;False;False
+s x ?;7544.468;0.075;7544.543;False;True;False;False;False;False;False;False;False;False;False
+s nf;7554.044;0.057;7554.101;False;True;False;False;False;False;False;False;False;False;False
+soc nf;7561.601;0.358;7561.959;False;False;False;False;False;True;False;False;False;False;False
+s nf;7562.334;0.044;7562.378;False;True;False;False;False;False;False;False;False;False;False
+s nf;7562.826;0.048;7562.874;False;True;False;False;False;False;False;False;False;False;False
+s nf;7562.941;0.058;7562.999;False;True;False;False;False;False;False;False;False;False;False
+s;7565.486;0.045;7565.531;False;True;False;False;False;False;False;False;False;False;False
+soc nf;7565.767;0.332;7566.099;False;False;False;False;False;True;False;False;False;False;False
+s;7566.1;0.043;7566.143;False;True;False;False;False;False;False;False;False;False;False
+s nf;7566.237;0.033;7566.27;False;True;False;False;False;False;False;False;False;False;False
+s;7566.733;0.039;7566.772;False;True;False;False;False;False;False;False;False;False;False
+soc nf;7566.899;0.25;7567.149;False;False;False;False;False;True;False;False;False;False;False
+s nf;7567.471;0.049;7567.5199999999995;False;True;False;False;False;False;False;False;False;False;False
+soc *;7567.858;0.518;7568.376;False;False;False;False;False;True;False;False;False;False;False
+soc *;7569.521;0.343;7569.864;False;False;False;False;False;True;False;False;False;False;False
+s *;7570.015;0.044;7570.059;False;True;False;False;False;False;False;False;False;False;False
+s *;7570.124;0.034;7570.157999999999;False;True;False;False;False;False;False;False;False;False;False
+soc *;7570.718;0.322;7571.04;False;False;False;False;False;True;False;False;False;False;False
+s nf;7571.231;0.025;7571.255999999999;False;True;False;False;False;False;False;False;False;False;False
+s nf;7571.87;0.025;7571.8949999999995;False;True;False;False;False;False;False;False;False;False;False
+soc *;7572.12;0.505;7572.625;False;False;False;False;False;True;False;False;False;False;False
+soc;7573.158;0.351;7573.509;False;False;False;False;False;True;False;False;False;False;False
+s *;7573.6;0.023;7573.6230000000005;False;True;False;False;False;False;False;False;False;False;False
+soc *;7573.96;0.602;7574.562;False;False;False;False;False;True;False;False;False;False;False
+s nf;7575.44;0.029;7575.469;False;True;False;False;False;False;False;False;False;False;False
+s nf;7575.8;0.026;7575.826;False;True;False;False;False;False;False;False;False;False;False
+soc *;7576.433;0.35;7576.783;False;False;False;False;False;True;False;False;False;False;False
+s nf;7577.2;0.02;7577.22;False;True;False;False;False;False;False;False;False;False;False
+s nf;7577.648;0.038;7577.686;False;True;False;False;False;False;False;False;False;False;False
+s nf;7577.866;0.036;7577.902;False;True;False;False;False;False;False;False;False;False;False
+s nf;7578.162;0.024;7578.186000000001;False;True;False;False;False;False;False;False;False;False;False
+soc *;7578.434;0.138;7578.572;False;False;False;False;False;True;False;False;False;False;False
+soc *;7579.366;0.402;7579.768;False;False;False;False;False;True;False;False;False;False;False
+s nf;7579.888;0.048;7579.936;False;True;False;False;False;False;False;False;False;False;False
+s nf;7580.107;0.037;7580.144;False;True;False;False;False;False;False;False;False;False;False
+s nf;7580.362;0.024;7580.386;False;True;False;False;False;False;False;False;False;False;False
+s nf;7580.57;0.029;7580.599;False;True;False;False;False;False;False;False;False;False;False
+s nf;7580.758;0.027;7580.785;False;True;False;False;False;False;False;False;False;False;False
+s nf;7581.105;0.028;7581.133;False;True;False;False;False;False;False;False;False;False;False
+s nf;7581.492;0.026;7581.518;False;True;False;False;False;False;False;False;False;False;False
+soc nf;7581.845;0.468;7582.313;False;False;False;False;False;True;False;False;False;False;False
+soc *;7582.661;0.364;7583.025;False;False;False;False;False;True;False;False;False;False;False
+s nf;7583.16;0.051;7583.211;False;True;False;False;False;False;False;False;False;False;False
+s nf;7583.4;0.036;7583.436;False;True;False;False;False;False;False;False;False;False;False
+soc nf;7583.469;0.179;7583.648;False;False;False;False;False;True;False;False;False;False;False
+s nf;7583.99;0.029;7584.019;False;True;False;False;False;False;False;False;False;False;False
+soc nf;7585.341;0.316;7585.657;False;False;False;False;False;True;False;False;False;False;False
+s nf;7589.893;0.046;7589.939;False;True;False;False;False;False;False;False;False;False;False
+s nf;7596.251;0.049;7596.3;False;True;False;False;False;False;False;False;False;False;False
+s nf;7596.687;0.036;7596.723;False;True;False;False;False;False;False;False;False;False;False
+skipon (soc interaction);7596.958;0.0;7596.958;False;False;False;False;False;True;False;False;False;False;False
+s;7597.842;0.034;7597.875999999999;False;True;False;False;False;False;False;False;False;False;False
+s;7605.846;0.034;7605.879999999999;False;True;False;False;False;False;False;False;False;False;False
+skipoff;7606.268;0.0;7606.268;False;False;False;False;False;False;False;False;False;False;True
+s;7606.365;0.039;7606.4039999999995;False;True;False;False;False;False;False;False;False;False;False
+s;7606.664;0.05;7606.714;False;True;False;False;False;False;False;False;False;False;False
+s *;7607.491;0.024;7607.515;False;True;False;False;False;False;False;False;False;False;False
+al;7607.58;0.053;7607.633;False;False;False;False;False;False;True;False;False;False;False
+s;7608.212;0.053;7608.265;False;True;False;False;False;False;False;False;False;False;False
+s;7609.6;0.043;7609.643;False;True;False;False;False;False;False;False;False;False;False
+s;7613.268;0.043;7613.311;False;True;False;False;False;False;False;False;False;False;False
+fu mov+s;7613.348;0.126;7613.474;False;False;True;False;False;False;False;False;False;False;False
+s;7614.82;0.059;7614.879;False;True;False;False;False;False;False;False;False;False;False
+fu mov+s;7614.903;0.129;7615.032;False;False;True;False;False;False;False;False;False;False;False
+fu mov+ld;7619.599;0.223;7619.822;False;False;False;False;False;False;False;False;False;True;False
+cc;7628.98;0.186;7629.165999999999;True;False;False;False;False;False;False;False;False;False;False
+cc;7631.368;0.156;7631.524;True;False;False;False;False;False;False;False;False;False;False
+cc;7635.472;0.219;7635.691;True;False;False;False;False;False;False;False;False;False;False
+cc;7643.0;0.151;7643.151;True;False;False;False;False;False;False;False;False;False;False
+cc;7648.921;0.205;7649.126;True;False;False;False;False;False;False;False;False;False;False
+cc;7657.5;0.156;7657.656;True;False;False;False;False;False;False;False;False;False;False
+cc;7663.109;0.164;7663.273;True;False;False;False;False;False;False;False;False;False;False
+cc x;7670.113;0.135;7670.2480000000005;True;False;False;False;False;False;False;False;False;False;False
+cc;7679.168;0.153;7679.321;True;False;False;False;False;False;False;False;False;False;False
+cc;7685.0;0.111;7685.111;True;False;False;False;False;False;False;False;False;False;False
+cc;7688.967;0.161;7689.128;True;False;False;False;False;False;False;False;False;False;False
+synch 02:16:30;7698.561;1.886;7700.447;False;False;False;False;False;False;False;False;True;False;False
+cc;7700.526;0.127;7700.653;True;False;False;False;False;False;False;False;False;False;False
+cc;7711.045;0.175;7711.22;True;False;False;False;False;False;False;False;False;False;False
+cc;7716.24;0.135;7716.375;True;False;False;False;False;False;False;False;False;False;False
+cc x;7722.47;0.095;7722.5650000000005;True;False;False;False;False;False;False;False;False;False;False
+cc;7731.926;0.131;7732.057000000001;True;False;False;False;False;False;False;False;False;False;False
+cc;7747.626;0.117;7747.743;True;False;False;False;False;False;False;False;False;False;False
+STOP;7751.0;0.0;7751.0;False;False;False;False;False;False;False;False;False;False;True
