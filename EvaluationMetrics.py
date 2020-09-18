@@ -317,14 +317,14 @@ class Evaluate:
                                     # call_time[start_time:end_time] = 1
                         if len(matched_pred) > 0:
                             t = 0 # end time of the current predicted call
-                            f = 0 # number of fragmetns
+                            f = 0 # number of fragments
                             p = 0 # pair number
                             tmax = max(matched_pred, key = lambda i : i[0])[1]
                             while(t < tmax and p < len(matched_pred)):
                                 t = matched_pred[p][1]
                                 p += 1
                                 while(p < len(matched_pred) and matched_pred[p][0] < t):
-                                    t = p[1]
+                                    t = matched_pred[p][1]
                                     p += 1
                                 f += 1
                             time_frag.at[idx,call][call_nb] = f
